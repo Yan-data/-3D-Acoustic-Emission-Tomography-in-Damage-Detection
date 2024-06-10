@@ -1,0 +1,781 @@
+iteration 15
+iteration 15
+res 4.182558iteration 51
+res 2.478039iteration 51
+iteration 31
+res 3.611431iteration 51
+iteration 15
+res 5.756985iteration 51
+iteration 48
+iteration 48
+res 4.945840iteration 51
+iteration 31
+res 5.429491iteration 51
+iteration 10
+iteration 41
+iteration 49
+res 4.889048iteration 51
+iteration 41
+iteration 50
+res 3.998497iteration 51
+iteration 46
+iteration 15
+iteration 15
+iteration 15
+iteration 39
+res 8.819800iteration 51
+iiiii1iteration 1
+iteration 1
+res 3.810131iteration 51
+iteration 12
+iteration 5
+res 3.753880iteration 51
+iteration 1
+res 5.168492iteration 51
+iteration 1
+iteration 1
+res 5.222713iteration 51
+iteration 1
+res 5.244006iteration 51
+iteration 1
+iteration 5
+iteration 2
+res 5.247322iteration 51
+iteration 12
+iteration 1
+res 3.826598iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 7
+res 7.378573iteration 51
+iiiii2iteration 1
+iteration 1
+res 3.831068iteration 51
+iteration 1
+iteration 1
+res 3.914676iteration 51
+iteration 1
+res 5.271457iteration 51
+iteration 1
+iteration 1
+res 5.354497iteration 51
+iteration 1
+res 5.326084iteration 51
+iteration 1
+iteration 5
+iteration 1
+res 5.433852iteration 51
+iteration 1
+iteration 1
+res 3.985053iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 4
+res 7.575084iteration 51
+iiiii3iteration 1
+iteration 1
+res 3.804077iteration 51
+iteration 1
+iteration 1
+res 3.865817iteration 51
+iteration 1
+res 5.229976iteration 51
+iteration 1
+iteration 1
+res 5.298028iteration 51
+iteration 1
+res 5.261495iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 5.413312iteration 51
+iteration 1
+iteration 1
+res 3.949992iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 7.394297iteration 51
+iiiii4iteration 1
+iteration 1
+res 3.769666iteration 51
+iteration 1
+iteration 1
+res 3.730089iteration 51
+iteration 1
+res 5.115908iteration 51
+iteration 1
+iteration 1
+res 5.161138iteration 51
+iteration 1
+res 5.147891iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 5.280384iteration 51
+iteration 1
+iteration 1
+res 3.826324iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 7.213158iteration 51
+iiiii5iteration 1
+iteration 1
+res 3.782721iteration 51
+iteration 1
+iteration 1
+res 3.757489iteration 51
+iteration 1
+res 5.142725iteration 51
+iteration 1
+iteration 1
+res 5.170236iteration 51
+iteration 1
+res 5.184735iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 5.310232iteration 51
+iteration 1
+iteration 1
+res 3.842470iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 7.059583iteration 51
+iiiii6iteration 1
+iteration 1
+res 3.437850iteration 51
+iteration 1
+iteration 7
+res 3.426137iteration 51
+iteration 1
+res 4.716227iteration 51
+iteration 1
+iteration 1
+res 4.727509iteration 51
+iteration 1
+res 4.712482iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 4.865786iteration 51
+iteration 7
+iteration 1
+res 3.528695iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 3
+res 5.514932iteration 51
+iiiii7iteration 1
+iteration 1
+res 3.370358iteration 51
+iteration 1
+iteration 1
+res 3.341858iteration 51
+iteration 1
+res 4.606051iteration 51
+iteration 1
+iteration 1
+res 4.638726iteration 51
+iteration 1
+res 4.611966iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 4.749241iteration 51
+iteration 1
+iteration 1
+res 3.434180iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 5.291519iteration 51
+iiiii8iteration 1
+iteration 1
+res 3.292349iteration 51
+iteration 1
+iteration 1
+res 3.266456iteration 51
+iteration 1
+res 4.493821iteration 51
+iteration 1
+iteration 1
+res 4.550200iteration 51
+iteration 1
+res 4.512944iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 4.624851iteration 51
+iteration 1
+iteration 1
+res 3.380529iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 4.975999iteration 51
+iiiii9iteration 1
+iteration 1
+res 3.245816iteration 51
+iteration 1
+iteration 1
+res 3.316897iteration 51
+iteration 1
+res 4.519687iteration 51
+iteration 1
+iteration 1
+res 4.507656iteration 51
+iteration 1
+res 4.447399iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 4.635481iteration 51
+iteration 1
+iteration 1
+res 3.312919iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 4.849222iteration 51
+iiiii10iteration 1
+iteration 1
+res 3.152965iteration 51
+iteration 1
+iteration 1
+res 3.163973iteration 51
+iteration 1
+res 4.316637iteration 51
+iteration 1
+iteration 1
+res 4.377287iteration 51
+iteration 1
+res 4.304365iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 4.460433iteration 51
+iteration 1
+iteration 1
+res 3.187567iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 4.488745iteration 51
+iiiii11iteration 1
+iteration 1
+res 3.040220iteration 51
+iteration 1
+iteration 1
+res 3.006278iteration 51
+iteration 1
+res 4.135803iteration 51
+iteration 1
+iteration 1
+res 4.202607iteration 51
+iteration 1
+res 4.104381iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 4.280848iteration 51
+iteration 1
+iteration 1
+res 3.062774iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 4.244770iteration 51
+iiiii12iteration 1
+iteration 1
+res 2.860920iteration 51
+iteration 1
+iteration 1
+res 2.792625iteration 51
+iteration 1
+res 3.869020iteration 51
+iteration 1
+iteration 1
+res 3.927996iteration 51
+iteration 1
+res 3.843046iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 4.022779iteration 51
+iteration 5
+iteration 1
+res 2.863379iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 3.963891iteration 51
+iiiii13iteration 1
+iteration 1
+res 2.591339iteration 51
+iteration 1
+iteration 5
+res 2.581488iteration 51
+iteration 1
+res 3.566812iteration 51
+iteration 1
+iteration 1
+res 3.624736iteration 51
+iteration 1
+res 3.453699iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 3.729550iteration 51
+iteration 1
+iteration 1
+res 2.642568iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 3.574049iteration 51
+iiiii14iteration 1
+iteration 1
+res 2.479020iteration 51
+iteration 1
+iteration 1
+res 2.496553iteration 51
+iteration 1
+res 3.435501iteration 51
+iteration 1
+iteration 1
+res 3.460194iteration 51
+iteration 1
+res 3.299777iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 3.599067iteration 51
+iteration 1
+iteration 1
+res 2.553904iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 3.396569iteration 51
+iiiii15iteration 1
+iteration 1
+res 2.516668iteration 51
+iteration 1
+iteration 1
+res 2.555136iteration 51
+iteration 1
+res 3.585156iteration 51
+iteration 1
+iteration 1
+res 3.541618iteration 51
+iteration 1
+res 3.444537iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 3.689374iteration 51
+iteration 1
+iteration 1
+res 2.615236iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 3.458775iteration 51
+iiiii16iteration 1
+iteration 1
+res 2.498147iteration 51
+iteration 1
+iteration 1
+res 2.561314iteration 51
+iteration 1
+res 3.500084iteration 51
+iteration 1
+iteration 1
+res 3.491849iteration 51
+iteration 1
+res 3.352961iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 3.638945iteration 51
+iteration 1
+iteration 1
+res 2.600389iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 3.472149iteration 51
+iiiii17iteration 1
+iteration 1
+res 2.498297iteration 51
+iteration 1
+iteration 1
+res 2.563330iteration 51
+iteration 1
+res 3.501365iteration 51
+iteration 1
+iteration 1
+res 3.490182iteration 51
+iteration 1
+res 3.353223iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 3.639218iteration 51
+iteration 1
+iteration 1
+res 2.601472iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 3.482951iteration 51
+iiiii18iteration 1
+iteration 1
+res 2.497725iteration 51
+iteration 1
+iteration 1
+res 2.560946iteration 51
+iteration 1
+res 3.499119iteration 51
+iteration 1
+iteration 1
+res 3.474627iteration 51
+iteration 1
+res 3.352572iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 3.636428iteration 51
+iteration 1
+iteration 1
+res 2.599133iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 3.483676iteration 51
+iiiii19iteration 1
+iteration 1
+res 2.497701iteration 51
+iteration 1
+iteration 1
+res 2.559849iteration 51
+iteration 1
+res 3.497313iteration 51
+iteration 1
+iteration 1
+res 3.474618iteration 51
+iteration 1
+res 3.352567iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 3.636375iteration 51
+iteration 1
+iteration 1
+res 2.597808iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 3.483629iteration 51
+iiiii20iteration 1
+iteration 1
+res 2.497692iteration 51
+iteration 1
+iteration 1
+res 2.559647iteration 51
+iteration 1
+res 3.497202iteration 51
+iteration 1
+iteration 1
+res 3.474617iteration 51
+iteration 1
+res 3.352566iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 3.636371iteration 51
+iteration 1
+iteration 1
+res 2.597608iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 3.476407iteration 51
+iiiii21iteration 1
+iteration 1
+res 2.495327iteration 51
+iteration 1
+iteration 1
+res 2.563993iteration 51
+iteration 1
+res 3.505101iteration 51
+iteration 1
+iteration 1
+res 3.479015iteration 51
+iteration 1
+res 3.357007iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 3.641528iteration 51
+iteration 1
+iteration 1
+res 2.601401iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 3.477922iteration 51
+iiiii22iteration 1
+iteration 1
+res 2.494372iteration 51
+iteration 1
+iteration 1
+res 2.563552iteration 51
+iteration 1
+res 3.504950iteration 51
+iteration 1
+iteration 1
+res 3.479014iteration 51
+iteration 1
+res 3.356998iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 3.641484iteration 51
+iteration 1
+iteration 1
+res 2.600991iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 3.477813iteration 51
+iiiii23iteration 1
+iteration 1
+res 2.494238iteration 51
+iteration 1
+iteration 1
+res 2.563357iteration 51
+iteration 1
+res 3.504848iteration 51
+iteration 1
+iteration 1
+res 3.479013iteration 51
+iteration 1
+res 3.356998iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 3.641465iteration 51
+iteration 1
+iteration 1
+res 2.600608iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 3.477797iteration 51
+iiiii24iteration 1
+iteration 1
+res 2.487068iteration 51
+iteration 1
+iteration 1
+res 2.567277iteration 51
+iteration 1
+res 3.508624iteration 51
+iteration 1
+iteration 1
+res 3.468276iteration 51
+iteration 1
+res 3.346408iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 3.644158iteration 51
+iteration 1
+iteration 1
+res 2.602167iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 3.415111iteration 51
+iiiii25iteration 1
+iteration 1
+res 2.479079iteration 51
+iteration 1
+iteration 1
+res 2.560768iteration 51
+iteration 1
+res 3.496958iteration 51
+iteration 1
+iteration 1
+res 3.419061iteration 51
+iteration 1
+res 3.336445iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 3.628796iteration 51
+iteration 1
+iteration 1
+res 2.594041iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 3.406346iteration 51
+iiiii26iteration 1
+iteration 1
+res 2.478143iteration 51
+iteration 1
+iteration 1
+res 2.559817iteration 51
+iteration 1
+res 3.495316iteration 51
+iteration 1
+iteration 1
+res 3.396842iteration 51
+iteration 1
+res 3.335187iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 3.626480iteration 51
+iteration 1
+iteration 1
+res 2.593440iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 3.406654iteration 51
+iiiii27iteration 1
+iteration 1
+res 2.478065iteration 51
+iteration 1
+iteration 1
+res 2.560253iteration 51
+iteration 1
+res 3.495151iteration 51
+iteration 1
+iteration 1
+res 3.388649iteration 51
+iteration 1
+res 3.333811iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 3.625634iteration 51
+iteration 1
+iteration 1
+res 2.589338iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 3.409936iteration 51
+iiiii28iteration 1
+iteration 1
+res 2.475716iteration 51
+iteration 1
+iteration 1
+res 2.557445iteration 51
+iteration 1
+res 3.490843iteration 51
+iteration 1
+iteration 1
+res 3.385358iteration 51
+iteration 1
+res 3.330938iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 3.620885iteration 51
+iteration 1
+iteration 1
+res 2.585478iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 3.410332iteration 51
+iiiii29iteration 1
+iteration 1
+res 2.475689iteration 51
+iteration 1
+iteration 1
+res 2.557369iteration 51
+iteration 1
+res 3.490644iteration 51
+iteration 1
+iteration 1
+res 3.385353iteration 51
+iteration 1
+res 3.330936iteration 51
+iteration 1
+iteration 1
+iteration 1
+res 3.620882iteration 51
+iteration 1
+iteration 1
+res 2.585475iteration 51
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+iteration 1
+res 3.410329iteration 51
+iiiii30>> 
